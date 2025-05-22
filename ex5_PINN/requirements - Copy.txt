@@ -1,0 +1,10 @@
+tensorflow==2.3.1
+keras==2.4.3
+sciann==0.5.1
+numpy==1.18.5
+sympy==1.4
+notebook==6.01
+matplotlib==3.1.3
+
+
+
